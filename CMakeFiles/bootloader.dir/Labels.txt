@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/CMakeFiles/bootloader
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/CMakeFiles/bootloader.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/CMakeFiles/bootloader-complete.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/paco/proyectos/esp32/Demo_LVGL/5_1_LCD_Test/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

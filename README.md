@@ -1,4 +1,4 @@
-## SPI master example
+## Graphic LCD 320x240 module example
 
 This code displays some simple graphics with varying pixel colors on the 320x240 LCD on an ESP-WROVER-KIT board.
 
